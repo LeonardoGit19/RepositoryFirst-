@@ -9,4 +9,5 @@ elif pagamento == 2:
         desconto = produto - (produto * 5/100)
         print (f'Seu produto custa o total de {desconto} reais.')
 
-asdcasdasd
+Sdfm<SDfvSDF 
+SDfSDfSDf
